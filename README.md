@@ -5,11 +5,11 @@ Soy un **Desarrollador de Software**  con experiencia en el desarrollo web **Ful
 
 - Poseo una sólida formación en **Vue.js, C# .Net y SQL Server**, la cual adquirí durante mi primera experiencia profesional en el Acueducto de Cartagena, donde tuve la oportunidad de trabajar en proyectos Fullstack.
 
-- También cuento con una sólida formación en **Machine Learning**, obtenida a través de un bootcamp especializado en ciencia de datos, donde adquirí habilidades avanzadas en el desarrollo y la implementación de modelos predictivos y analíticos.
+- También cuento con una sólida formación en **Machine Learning python matplotlib Streamlit pandas seaborn airflow Tensorflow**, obtenida a través de un bootcamp especializado en ciencia de datos, donde adquirí habilidades avanzadas en el desarrollo y la implementación de modelos predictivos y analíticos.
 
-- He participado en el desarrollo de software implementando **metodologias agiles**.
+- He participado en el desarrollo de software implementando **metodologias de desarrollo agiles  (SCRUM)**.
 
-- Cuento con una excelente formación en **Estructuras de Datos, Programación Orientada a Objetos y Flujos de Trabajo**, desarrollada a lo largo de mi pregrado en Ingeniería de Software.
+- Cuento con una excelente formación en **Estructuras de Datos, Programación Orientada a Objetos y Flujos de Trabajo arquitectura de software**, desarrollada a lo largo de mi pregrado en Ingeniería de Software.
 
 Esta combinación de habilidades me permite abordar proyectos desde una perspectiva **integral**, fusionando la potencia del desarrollo de software con las capacidades analíticas de la ciencia de datos para crear soluciones robustas.
 
@@ -17,8 +17,14 @@ Esta combinación de habilidades me permite abordar proyectos desde una perspect
 
 He tenido la oportunidad de aplicar mis conocimientos teoricos en situaciones reales en diferentes tipos de proyectos:
 ### Proyecto de Ciencia de Datos
-- **California House Price preditction**: [California House Price preditction](https://github.com/Antojose93/House-price-california)
+- [**California House Price preditction**:](https://github.com/Antojose93/House-price-california)
   - Este proyecto es una solución a un problema planteado por Kaggle, Es una regresion lineal usando sklearn y el modelo LinearRegression
+
+- [**Steam game recommender**:](https://github.com/Antojose93/SteamGameRecommender)
+  - Este proyecto es una api RestFull desplegada en render, que analisa las reviews de usuarios de la plataforma Steam por medio de la similitud del coseno para hacer recomendaciones a usuarios similares.
+
+- [**CABA Analisis de siniestros viales**:](https://github.com/Antojose93/Siniestros-Viales-Buenos-Aireas)   
+  - Este proyecto se alimenta de los datos del departamento de estadistica de buenos aires para hacer un analisis de los siniestros viales ocurridos entre el 2016 y el 2022 presentando los resultados en un dashboard interactivo, se implementaron librerias como Folium para visualizar mapas, Streamlet para hacer el dashboard entre otras mas.
 
 ### Proyectos Backend
 - **Tasks**:
