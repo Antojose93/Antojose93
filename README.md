@@ -1,38 +1,40 @@
-# Hola! 👋 Soy Antonio
+# ¡Hola! 👋 Soy Antonio
 
 ## Sobre mí
-Soy un **Desarrollador de Software**  con experiencia en el desarrollo web **FullStack** y apasionado por la **ciencia de datos**.
+Soy un **Desarrollador de Software** con experiencia en el desarrollo web **FullStack** y apasionado por la **ciencia de datos**.
 
-- Poseo una sólida formación en **Vue.js, C# .Net y SQL Server**, la cual adquirí durante mi primera experiencia profesional en el Acueducto de Cartagena, donde tuve la oportunidad de trabajar en proyectos Fullstack.
-
-- También cuento con una sólida formación en **Machine Learning python matplotlib Streamlit pandas seaborn airflow Tensorflow**, obtenida a través de un bootcamp especializado en ciencia de datos, donde adquirí habilidades avanzadas en el desarrollo y la implementación de modelos predictivos y analíticos.
-
-- He participado en el desarrollo de software implementando **metodologias de desarrollo agiles  (SCRUM)**.
-
-- Cuento con una excelente formación en **Estructuras de Datos, Programación Orientada a Objetos y Flujos de Trabajo arquitectura de software**, desarrollada a lo largo de mi pregrado en Ingeniería de Software.
+- Poseo una sólida formación en **Vue.js, C# .Net y SQL Server**, la cual adquirí durante mi primera experiencia profesional en el Acueducto de Cartagena, donde tuve la oportunidad de trabajar en proyectos FullStack.
+  
+- También cuento con una sólida formación en **Machine Learning** utilizando **Python, Matplotlib, Streamlit, Pandas, Seaborn, Airflow y TensorFlow**, obtenida a través de un bootcamp especializado en ciencia de datos, donde adquirí habilidades avanzadas en el desarrollo y la implementación de modelos predictivos y analíticos.
+  
+- He participado en el desarrollo de software implementando **metodologías de desarrollo ágiles (SCRUM)**.
+  
+- Cuento con una excelente formación en **Estructuras de Datos, Programación Orientada a Objetos, Flujos de Trabajo y Arquitectura de Software**, desarrollada a lo largo de mi pregrado en Ingeniería de Software.
 
 Esta combinación de habilidades me permite abordar proyectos desde una perspectiva **integral**, fusionando la potencia del desarrollo de software con las capacidades analíticas de la ciencia de datos para crear soluciones robustas.
 
 ## Proyectos 🚀
 
-He tenido la oportunidad de aplicar mis conocimientos teoricos en situaciones reales en diferentes tipos de proyectos:
+He tenido la oportunidad de aplicar mis conocimientos teóricos en situaciones reales en diferentes tipos de proyectos:
+
 ### Proyecto de Ciencia de Datos
-- [**California House Price preditction**:](https://github.com/Antojose93/House-price-california)
-  - Este proyecto es una solución a un problema planteado por Kaggle, Es una regresion lineal usando sklearn y el modelo LinearRegression
+- [**California House Price Prediction**](https://github.com/Antojose93/House-price-california)
+  - Este proyecto es una solución a un problema planteado por Kaggle. Es una regresión lineal usando sklearn y el modelo LinearRegression.
 
-- [**Steam game recommender**:](https://github.com/Antojose93/SteamGameRecommender)
-  - Este proyecto es una api RestFull desplegada en render, que analisa las reviews de usuarios de la plataforma Steam por medio de la similitud del coseno para hacer recomendaciones a usuarios similares.
+- [**Steam Game Recommender**](https://github.com/Antojose93/SteamGameRecommender)
+  - Este proyecto es una API RestFull desplegada en Render, que analiza las reviews de usuarios de la plataforma Steam por medio de la similitud del coseno para hacer recomendaciones a usuarios similares.
 
-- [**CABA Analisis de siniestros viales**:](https://github.com/Antojose93/Siniestros-Viales-Buenos-Aireas)   
-  - Este proyecto se alimenta de los datos del departamento de estadistica de buenos aires para hacer un analisis de los siniestros viales ocurridos entre el 2016 y el 2022 presentando los resultados en un dashboard interactivo, se implementaron librerias como Folium para visualizar mapas, Streamlet para hacer el dashboard entre otras mas.
+- [**CABA Análisis de Siniestros Viales**](https://github.com/Antojose93/Siniestros-Viales-Buenos-Aireas)
+  - Este proyecto se alimenta de los datos del departamento de estadística de Buenos Aires para hacer un análisis de los siniestros viales ocurridos entre 2016 y 2022, presentando los resultados en un dashboard interactivo. Se implementaron librerías como Folium para visualizar mapas y Streamlit para hacer el dashboard, entre otras más.
 
 ### Proyectos Backend
 - **Tasks**:
-  - Es una plantilla Backend que contiene la estructura de una arquitectura Hexagonal esta echo en Java con el Framework Spring boot.
+  - Es una plantilla Backend que contiene la estructura de una arquitectura Hexagonal. Está hecho en Java con el framework Spring Boot.
 
 ### Proyectos Frontend
 - **UDC Students**:
-  - Es una base de Conocimiento que desarrolle como regalo a mi universidad, La idea del proyecto es entregar contenido educativo Didactico para el aprendizaje de las asignaturas impartida por la universidad, Esta echo en Vuepress, Proyecto de Vue.js
+  - Es una base de conocimiento que desarrollé como regalo a mi universidad. La idea del proyecto es entregar contenido educativo didáctico para el aprendizaje de las asignaturas impartidas por la universidad. Está hecho en Vuepress, un proyecto de Vue.js.
+
 
 ### Languages
 
