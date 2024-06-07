@@ -1,7 +1,17 @@
 # Hola! 👋 Soy Antonio
 
 ## Sobre mí
-Soy un **Ingeniero de Software** apasionado por el desarrollo web **FullStack** y la **ciencia de datos**.
+Soy un **Desarrollador de Software**  con experiencia en el desarrollo web **FullStack** y apasionado por la **ciencia de datos**.
+
+- Poseo una sólida formación en **Vue.js, C# .Net y SQL Server**, la cual adquirí durante mi primera experiencia profesional en el Acueducto de Cartagena, donde tuve la oportunidad de trabajar en proyectos Fullstack.
+
+- También cuento con una sólida formación en **Machine Learning**, obtenida a través de un bootcamp especializado en ciencia de datos, donde adquirí habilidades avanzadas en el desarrollo y la implementación de modelos predictivos y analíticos.
+
+- He participado en el desarrollo de software implementando **metodologias agiles**.
+
+- Cuento con una excelente formación en **Estructuras de Datos, Programación Orientada a Objetos y Flujos de Trabajo**, desarrollada a lo largo de mi pregrado en Ingeniería de Software.
+
+Esta combinación de habilidades me permite abordar proyectos desde una perspectiva **integral**, fusionando la potencia del desarrollo de software con las capacidades analíticas de la ciencia de datos para crear soluciones robustas.
 
 ## Proyectos 🚀
 
@@ -18,12 +28,30 @@ He tenido la oportunidad de aplicar mis conocimientos teoricos en situaciones re
 - **UDC Students**:
   - Es una base de Conocimiento que desarrolle como regalo a mi universidad, La idea del proyecto es entregar contenido educativo Didactico para el aprendizaje de las asignaturas impartida por la universidad, Esta echo en Vuepress, Proyecto de Vue.js
 
-## Tecnologías que Manejo
+### Languages
 
-- **Ciencia de Datos**: Python (NumPy, Pandas, Scikit-learn, TensorFlow), SQL
-- **Backend**: Java (Spring Boot), C# (.Net Framework) Node.js (Express.js, Nest.js)
-- **Bases de Datos** MongoDB, PostgreSQL, SQLServer, MySQL
-- **Frontend**: Vue.js, HTML5, CSS3, Vuetify
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
+### Technologies
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=Microsoft-SQL-Server)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=Apache-Airflow)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ## Contacto
 - 📫 Cómo contactarme: [correo electrónico](antonio.hurtado1993@gmail.com), [LinkedIn]([tu_perfil_de_LinkedIn](https://www.linkedin.com/in/antonio-jos%C3%A9-hurtado-aguas-267318157/))
