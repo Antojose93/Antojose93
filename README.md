@@ -1,5 +1,5 @@
-# ¡Hola! 👋 Soy Antonio
-
+# ¡Hola! 👋 Soy Antonio 
+[Curriculum](https://docs.google.com/document/d/1tcs-C0i9l-JazDzEBRx_CT-7JyRunMH4E96d5p4LE9w/edit?usp=sharing)
 ## Sobre mí
 Soy un **Desarrollador de Software** con experiencia en el desarrollo web **FullStack** y apasionado por la **ciencia de datos**.
 
