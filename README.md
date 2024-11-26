@@ -1,5 +1,14 @@
 # ¡Hola! 👋 Soy Antonio 
 [Curriculum](https://docs.google.com/document/d/1tcs-C0i9l-JazDzEBRx_CT-7JyRunMH4E96d5p4LE9w/edit?usp=sharing)
+## Contacto  
+- 🌍 Ubicación: [Cartagena, Colombia](https://maps.app.goo.gl/165p2Tw448HkNBEE8)  
+- 📫 Cómo contactarme: [antonio.hurtado1993@gmail.com](mailto:antonio.hurtado1993@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/antonio-jos%C3%A9-hurtado-aguas-267318157/)  
+- 📱 Teléfono: [+57 305 325 1726](tel:+573053251726)  
+
+
+
+
 ## Sobre mí
 Soy un **Desarrollador de Software** con experiencia en el desarrollo web **FullStack** y apasionado por la **ciencia de datos**.
 
