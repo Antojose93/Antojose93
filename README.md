@@ -11,7 +11,7 @@
 ---
 
 
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+
 
 <div style="font-family: 'Montserrat', sans-serif;">
   <table style="width: 100%; border-collapse: collapse;">
@@ -19,12 +19,9 @@
       <td style="width: 45%; vertical-align: top; padding-right: 20px;">
         <h3 style="font-weight: 600; color: #2c3e50;">Sobre mí</h3>
         <p style="text-align: justify;">
-          Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como 
+          Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como <span style="color: Yellow">Python, C#, Java y TypeScript </span>
           
-            <span style="color: #3572A5;">Python</span>, 
-            <span style="color: #178600;">C#</span>, 
-            <span style="color: #b07219;">Java</span> y 
-            <span style="color: #2b7489;">TypeScript</span>.
+
           
         </p>
         <p style="text-align: justify;">
