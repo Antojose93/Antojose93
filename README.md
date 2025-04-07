@@ -1,7 +1,7 @@
 
 ##             Hola, soy Antonio Hurtado👋
 
-
+<img src="[URL_DEL_GIF_ANIMADO](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa200cWcxczIxZXd5ZXFnMTE3d3VwNHNlem52ZmVkdWkzNmRjYWNvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif)" alt="Descripción del GIF">
 
 
 <div align="center">
