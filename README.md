@@ -20,13 +20,7 @@
         <h3 style="font-weight: 600; color: #2c3e50;">Sobre mí</h3>
 
         <p style="text-align: justify;">
-          Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como 
-          <span style="color: #f1c40f;"><strong>Python</strong></span>, 
-          <span style="color: #3498db;"><strong>C#</strong></span>, 
-          <span style="color: #e67e22;"><strong>Java</strong></span> y 
-          <span style="color: #9b59b6;"><strong>TypeScript</strong></span>.
-        </p>
-
+          Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como <strong>Python, C#, Java y TypeScript</strong>
         <p style="text-align: justify;">
           También tengo conocimientos en desarrollo frontend, siendo <strong>Vue.js</strong> el framework que más he utilizado. Sin embargo, también he trabajado con <strong>Astro</strong>, <strong>Angular</strong> y <strong>React</strong>, apoyándome en <strong>Tailwind CSS</strong> para la creación de componentes visuales.
         </p>
