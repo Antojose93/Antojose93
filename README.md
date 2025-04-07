@@ -2,7 +2,7 @@
 ##             Hola, soy Antonio Hurtado👋
 
 
-<img src="https://imgur.com/a/etpdj8r" alt="imagen banner"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/etpdj8r" data-context="false" ><a href="//imgur.com/a/etpdj8r"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <div align="center">
