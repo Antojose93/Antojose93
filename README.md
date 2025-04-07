@@ -19,10 +19,19 @@
       <td style="width: 45%; vertical-align: top; padding-right: 20px;">
         <h3 style="font-weight: 600; color: #2c3e50;">Sobre mí</h3>
         <p style="text-align: justify;">
-          Soy Ingeniero de Software con experiencia como desarrollador Full-Stack, con un enfoque sólido en el desarrollo backend. A lo largo de mi carrera, he trabajado en la construcción de servicios REST, SOAP y GraphQL, utilizando tecnologías como Python, C#, Java y TypeScript.
+          Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como 
+          <strong>
+            <span style="color: #3572A5;">Python</span>, 
+            <span style="color: #178600;">C#</span>, 
+            <span style="color: #b07219;">Java</span> y 
+            <span style="color: #2b7489;">TypeScript</span>.
+          </strong>
         </p>
         <p style="text-align: justify;">
-          También tengo conocimientos en desarrollo frontend, siendo Vue.js el framework que más he utilizado. Sin embargo, también he trabajado con Astro, Angular y React, apoyándome en Tailwind CSS para acelerar la creación de componentes visuales atractivos y funcionales.
+          He ayudado a empresas a Diseñar y Desarrollar APis (REST SOAP), Consultas interactivas en bases de Datos SQL (SQL server )
+        </p>
+        <p style="text-align: justify;">
+          También tengo conocimientos en desarrollo frontend, siendo Vue.js el framework que más he utilizado. Sin embargo, también he trabajado con Astro, Angular y React, apoyándome en Tailwind CSS para la creación de componentes visuales.
         </p>
         <p style="text-align: justify;">
           He complementado mi formación con certificaciones en computación en la nube otorgadas por AWS (AWS Foundation y AWS Cloud Architect), así como en análisis de datos a través del bootcamp Henry.
