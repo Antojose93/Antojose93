@@ -7,18 +7,13 @@
      <strong>Software Engineer | Full-Stack Developer | Cloud Architect | Data Scientist</strong>
  </div>
  
- ---
- 
- 
- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
- 
  <div style="font-family: 'Montserrat', sans-serif;">
    <table style="width: 100%; border-collapse: collapse;">
      <tr>
        <td style="width: 45%; vertical-align: top; padding-right: 20px;">
          <h3 style="font-weight: 600; color: #2c3e50;">Sobre mí</h3>
          <p style="text-align: justify;">
-           Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como <strong> python, C#, TypeScript y java</strong>
+           Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como python, C#, TypeScript y java
          
            
          </p>
@@ -39,8 +34,7 @@
    </table>
  </div>
  
- ---
- 
+
  <div align="center">
      <strong>Skills</strong>
  </div>
