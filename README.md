@@ -1,7 +1,7 @@
 
 ##             Hola, soy Antonio Hurtado👋
 
-<img src="https://imgur.com/a/YmSt8iw" alt="Banner de portada">
+<img src="https://i.imgur.com/SyidUWX.png" alt="Banner de portada">
 
 
 <div align="center">
