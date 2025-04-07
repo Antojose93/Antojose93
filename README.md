@@ -14,8 +14,6 @@
          <h3 style="font-weight: 600; color: #2c3e50;">Sobre mí</h3>
          <p style="text-align: justify;">
            Soy Ingeniero de Software con experiencia como desarrollador Full-Stack. A lo largo de mi carrera he trabajado en la construcción de backend, utilizando tecnologías como python, C#, TypeScript y java
-         
-           
          </p>
          <p style="text-align: justify;">
            He ayudado a empresas a Diseñar y Desarrollar APis (REST SOAP), Consultas interactivas en bases de Datos SQL (SQL server )
