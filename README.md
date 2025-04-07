@@ -29,7 +29,7 @@
         </p>
       </td>  
       <td style="width: 55%; vertical-align: top; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://i.imgur.com/DOkWLlA.gifv" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
+        <img src="https://i.imgur.com/DOkWLlA.gif" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
       </td>
     </tr>
   </table>
