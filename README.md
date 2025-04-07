@@ -12,7 +12,7 @@
 
 
 
-
+ <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 <div style="font-family: 'Montserrat', sans-serif;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
