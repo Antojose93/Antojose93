@@ -1,41 +1,39 @@
 
 ##             Hola, soy Antonio Hurtado👋
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa200cWcxczIxZXd5ZXFnMTE3d3VwNHNlem52ZmVkdWkzNmRjYWNvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" alt="Descripción del GIF">
+<img src="https://imgur.com/a/YmSt8iw" alt="Banner de portada">
 
 
 <div align="center">
-    <strong>Full Stack Developer</strong>
+    <strong>Software Engineer | Full-Stack Developer | Cloud Architect | Data Scientist</strong>
 </div>
 
 ---
 
-<div> 
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Montserrat', sans-serif;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
-      <td style="width: 10%; vertical-align: top; padding-right: 10px;">
-        <h3>Sobre mí</h3>
-        <p>
-          Soy un programador full stack enfocado en el desarrollo frontend, con aproximadamente dos años de experiencia en la industria.
-          Inicialmente, trabajé con Angular, lo que me permitió adquirir una base sólida en el desarrollo de aplicaciones web escalables.
-          En la actualidad, mi enfoque se ha trasladado hacia tecnologías más modernas como React y Next.js, donde he mejorado mis habilidades
-          en la creación de interfaces de usuario eficientes y optimizadas para una mejor experiencia de usuario.
+      <td style="width: 45%; vertical-align: top; padding-right: 20px;">
+        <h3 style="font-weight: 600; color: #2c3e50;">Sobre mí</h3>
+        <p style="text-align: justify;">
+          Soy Ingeniero de Software con experiencia como desarrollador Full-Stack, con un enfoque sólido en el desarrollo backend. A lo largo de mi carrera, he trabajado en la construcción de servicios REST, SOAP y GraphQL, utilizando tecnologías como Python, C#, Java y TypeScript.
         </p>
-        <p>
-          Mi conocimiento también abarca herramientas y prácticas avanzadas para el desarrollo web como TypeScript y Tailwind CSS, lo que me permite
-          ofrecer soluciones robustas y bien estructuradas.
+        <p style="text-align: justify;">
+          También tengo conocimientos en desarrollo frontend, siendo Vue.js el framework que más he utilizado. Sin embargo, también he trabajado con Astro, Angular y React, apoyándome en Tailwind CSS para acelerar la creación de componentes visuales atractivos y funcionales.
         </p>
-        <p>
-          Soy una persona creativa y curiosa, lo que me permite buscar nuevas soluciones y enfoques innovadores en cada proyecto. Disfruto trabajando
-          en equipo y me considero sociable, lo que facilita la colaboración con diferentes perfiles profesionales.
+        <p style="text-align: justify;">
+          He complementado mi formación con certificaciones en computación en la nube otorgadas por AWS (AWS Foundation y AWS Cloud Architect), así como en análisis de datos a través del bootcamp Henry.
         </p>
       </td>  
-      <td style="width: 50%; display:flex; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api?username=eiriselias&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="width: 2000px;"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiriselias&layout=compact&theme=radical" alt="Top Lenguajes" style="width: 2000px;"/>
+      <td style="width: 55%; vertical-align: top; display: flex; flex-direction: column; align-items: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=eiriselias&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiriselias&layout=compact&theme=radical" alt="Top Lenguajes" style="width: 100%; max-width: 500px;"/>
       </td>
     </tr>
-</table>
+  </table>
 </div>
 
 ---
