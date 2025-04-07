@@ -8,7 +8,7 @@
     <strong>Software Engineer | Full-Stack Developer | Cloud Architect | Data Scientist</strong>
 </div>
 
----
+
 
 
 
@@ -40,7 +40,7 @@
   </table>
 </div>
 
----
+
 
 <div align="center">
     <strong>Skills</strong>
