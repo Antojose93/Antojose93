@@ -29,8 +29,7 @@
         </p>
       </td>  
       <td style="width: 55%; vertical-align: top; display: flex; flex-direction: column; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=eiriselias&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiriselias&layout=compact&theme=radical" alt="Top Lenguajes" style="width: 100%; max-width: 500px;"/>
+        <img src="https://i.imgur.com/DOkWLlA.gifv" style="width: 100%; max-width: 500px; margin-bottom: 10px;"/>
       </td>
     </tr>
   </table>
