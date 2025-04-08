@@ -37,11 +37,12 @@
  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; width: 80%;">
  
    
-   <img src="https://i.imgur.com/kjpjkgX.png" alt="logoVue" width="80"/>
+   <img src="https://i.imgur.com/kjpjkgX.png" alt="logoSpring" width="80"/>
    <img src="https://i.imgur.com/frqDRNQ.png" alt="logoVue" width="80"/>
    <img src="https://i.imgur.com/Zcb9ELE.png" alt="logoGitHub" width="80"/>
    <img src="https://i.imgur.com/QGBlbeX.png" alt="logoSqlServer" width="80"/>
    <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="80"/>
    <img src="https://i.imgur.com/rsr4HLs.png" alt="logoPandas" width="80"/>
+   <img src="https://i.imgur.com/9VAFNI6.png" alt="LogeNet" width="80"/>
    
  
