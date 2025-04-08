@@ -33,9 +33,7 @@
  </div>
  
 
- <div align="center">
-     <strong>Skills</strong>
- </div>
+
  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; width: 80%;">
  
    <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=256" alt="logoReact" width="80"/>
@@ -44,6 +42,7 @@
    <img src="https://i.imgur.com/Yfryayt.png" alt="logoJavaScript" width="80"/>
    <img src="https://i.imgur.com/2hLh0R0.png" alt="logoTypeScript" width="80"/>
    <img src="https://i.imgur.com/Zcb9ELE.png" alt="logoGitHub" width="80"/>
+   <img src="https://i.imgur.com/QGBlbeX.png" alt="logoSqlServer" width="80"/>
    <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="80"/>
    <img src="https://i.imgur.com/rsr4HLs.png" alt="logoPandas" width="80"/>
  
