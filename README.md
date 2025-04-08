@@ -43,9 +43,7 @@
    <img src="https://i.imgur.com/frqDRNQ.png" alt="logoVue" width="80"/>
    <img src="https://i.imgur.com/Yfryayt.png" alt="logoJavaScript" width="80"/>
    <img src="https://i.imgur.com/2hLh0R0.png" alt="logoTypeScript" width="80"/>
-   <img src="https://i.imgur.com/c6lTS8w.png" alt="logoHtml" width="80"/>
-   <img src="https://i.imgur.com/kkeeC0y.png" alt="logoCss" width="80"/>
    <img src="https://i.imgur.com/Zcb9ELE.png" alt="logoGitHub" width="80"/>
    <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="80"/>
-   <img src="https://i.imgur.com/P7fXRYM.png" alt="logoNodeJs" width="80"/>
+   <img src="https://i.imgur.com/rsr4HLs.png" alt="logoPandas" width="80"/>
  
