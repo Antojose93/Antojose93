@@ -36,12 +36,12 @@
 
  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; width: 80%;">
  
-   <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=256" alt="logoReact" width="80"/>
-   <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="logoNextJs" width="80"/>
+   
+   <img src="https://i.imgur.com/kjpjkgX.png" alt="logoVue" width="80"/>
    <img src="https://i.imgur.com/frqDRNQ.png" alt="logoVue" width="80"/>
-   <img src="https://i.imgur.com/2hLh0R0.png" alt="logoTypeScript" width="80"/>
    <img src="https://i.imgur.com/Zcb9ELE.png" alt="logoGitHub" width="80"/>
    <img src="https://i.imgur.com/QGBlbeX.png" alt="logoSqlServer" width="80"/>
    <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="80"/>
    <img src="https://i.imgur.com/rsr4HLs.png" alt="logoPandas" width="80"/>
+   
  
