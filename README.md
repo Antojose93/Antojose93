@@ -43,6 +43,7 @@
    <img src="https://i.imgur.com/9BIdnPs.png" alt="logoGit" width="80"/>
    <img src="https://i.imgur.com/CPSbr2Z.png" alt="logoGradle" width="80"/>
    <img src="https://i.imgur.com/9VAFNI6.png" alt="LogeNet" width="80"/>
+   <img src="https://i.imgur.com/lRM2h0Y.png" alt="Logetailwind" width="80"/>
    <img src="https://i.imgur.com/rsr4HLs.png" alt="logoPandas" width="80"/>
    <img src="https://i.imgur.com/QGBlbeX.png" alt="logoSqlServer" width="80"/>
  
